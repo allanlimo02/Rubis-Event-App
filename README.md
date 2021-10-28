@@ -1,9 +1,8 @@
-# Rubis Fast Food Stores App
-This is a food order mobile app. Where a user has several Restaurants to choose from and each restaurants has their own unique Menus
+# Rubis Event App
+This is a Event searching mobile app. Where a user has several Events to choose from as per their preferred location
 
 ----
 ## Author
-
 * ALLAN LIMO
 ----
 # Getting Started
